@@ -42,7 +42,7 @@ Built  by **Agyare Kelvin Yeboah**.
 
 2️⃣  **Get AI Suggestions** – Let AI enhance your resume & cover letter.  
 
-3️⃣  
+3️⃣  **Preview & Download** – Instantly export a **beautiful PDF**.
 
 
 
