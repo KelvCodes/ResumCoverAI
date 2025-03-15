@@ -1,4 +1,4 @@
-# 🧠 Ultimate Quiz Game – Test Your Knowledge! 🎉   
+   
 
 A **fun and interactive** web-based quiz app that challenges your knowledge across various categories! 🌐  
 Answer random questions, track your score 📊, and enjoy a sleek UI with smooth animations.  
