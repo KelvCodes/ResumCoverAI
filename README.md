@@ -13,7 +13,7 @@ Built  by **Agyare Kelvin Yeboah**.
 - ✅  **🎨 Sleek, Professional Design** – Stunning layouts for a **standout** resume.  
 - ✅  **📥 Download as PDF** – One-click **PDF export** for easy sharing.  
 - ✅ **🌙 Dark Mode** – Eye-friendly experience for night owls.  
-- ✅ 
+- ✅  **📱 Fully Responsive** – Works flawlessly on desktop, tablet & mobile.  
 
 
     
