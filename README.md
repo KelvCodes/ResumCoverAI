@@ -52,7 +52,7 @@ Built  by **Agyare Kelvin Yeboah**.
 
 1. Clone this repository to your local machine:  
    ```bash  
-   git clone https://github.com/yourusername/.git
+   git clone https://github.com/yourusername/res.git
    ```  
 
 2. Open the `index.html` file in your favorite web browser. 🌐  
