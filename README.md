@@ -20,7 +20,7 @@ Built  by **Agyare Kelvin Yeboah**.
 ---      
 ## 🎬 Live Demo 
 
-🔗 **[Try It Now]()**  
+🔗 **[Try It Now](https://resumecoverai.netlify.app/)**  
 
 
 ---
