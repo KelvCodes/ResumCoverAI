@@ -40,7 +40,7 @@ Built  by **Agyare Kelvin Yeboah**.
 ## 🚀 How to Use 
 1️⃣  **Enter Your Details** – Fill in your name, job title, skills, etc.  
 
-2️⃣ 
+2️⃣  **Get AI Suggestions** – Let AI enhance your resume & cover letter.  
 
 3️⃣   **Track Your Score** – Watch your score update instantly! 📊
 
