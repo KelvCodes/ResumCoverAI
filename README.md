@@ -42,7 +42,7 @@ Built  by **Agyare Kelvin Yeboah**.
 
 2️⃣  **Get AI Suggestions** – Let AI enhance your resume & cover letter.  
 
-3️⃣   **Track Your Score** – Watch your score update instantly! 📊
+3️⃣  
 
 
 
