@@ -38,7 +38,7 @@ Built  by **Agyare Kelvin Yeboah**.
 ---
 
 ## 🚀 How to Use 
-1️⃣  **Start the Game** – Launch the app and click 'Start Quiz.' 🏁
+1️⃣  
 
 2️⃣  **Answer Questions** – Select your answer from the given options. ✅❌  
 
