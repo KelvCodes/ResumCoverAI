@@ -8,7 +8,7 @@ Built  by **Agyare Kelvin Yeboah**.
 ---
 
 ## 🌟 Features  
-- ✅ **📋 Random Questions** – Fetches questions from a trivia API every time you play.  
+- ✅ 
 - ✅ **⚡ Instant Feedback** – Know immediately if your answer is right or wrong.  
 - ✅ **📊 Score Tracking** – Keeps track of your score during the game. 
 - ✅ **🎭 Smooth Animations** – Delightful UI transitions and effects
