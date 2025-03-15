@@ -12,7 +12,7 @@ Built  by **Agyare Kelvin Yeboah**.
 - ✅ **🤖 AI-Powered Suggestions** – Get smart recommendations to enhance your job applications.  
 - ✅  **🎨 Sleek, Professional Design** – Stunning layouts for a **standout** resume.  
 - ✅  **📥 Download as PDF** – One-click **PDF export** for easy sharing.  
-- ✅ **🌙 Dark Mode** – Sleek experience for night owls.  
+- ✅ 
 - ✅ **📱 Fully Responsive** – Works perfectly on desktop, tablet, and mobile!  
 
 
