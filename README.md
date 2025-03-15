@@ -2,7 +2,7 @@
 
 A **smart, AI-powered** tool that creates professional **resumes & cover letters** with **zero stress!** 🧠💼  
 Simply input your details, get AI-generated suggestions, and download a polished **PDF** in seconds! 🎉  
- 
+Built  by **Agyare Kelvin Yeboah**.  
 
 
 ---
