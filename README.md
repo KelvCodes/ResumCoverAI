@@ -62,7 +62,7 @@ Built  by **Agyare Kelvin Yeboah**.
 
 ## 🤝 Contributing  
 
-Want to make this Quiz App even better? We’d love your help! 💡  
+Want to make  even better? We’d love your help! 💡  
 1. Fork this repository.  
 2. Create a new branch:  
    ```bash  
