@@ -40,7 +40,7 @@ Built  by **Agyare Kelvin Yeboah**.
 ## 🚀 How to Use 
 1️⃣  **Enter Your Details** – Fill in your name, job title, skills, etc.  
 
-2️⃣  **Answer Questions** – Select your answer from the given options. ✅❌  
+2️⃣ 
 
 3️⃣   **Track Your Score** – Watch your score update instantly! 📊
 
