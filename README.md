@@ -9,7 +9,7 @@ Built  by **Agyare Kelvin Yeboah**.
 
 ## 🌟 Features  
 - ✅ **📄 Instant Resume & Cover Letter Generation** – No more writer’s block! 🚀  
-- ✅ 
+- ✅ **🤖 AI-Powered Suggestions** – Get smart recommendations to enhance your job applications.  
 - ✅ **📊 Score Tracking** – Keeps track of your score during the game. 
 - ✅ **🎭 Smooth Animations** – Delightful UI transitions and effects
 - ✅ **🌙 Dark Mode** – Sleek experience for night owls.  
